@@ -1,0 +1,42 @@
+.area{
+    margin-bottom: 150px !important;
+    margin-top: 10px;
+   
+} 
+
+.area input{
+    border: 0;
+    background-color: rgb(230, 230, 230);
+    border-radius: 10px 10px 0 0 ;
+     /* box-shadow: 0 2px 5px #ccc; */
+    padding-left: 10px;
+    padding-right: 10px;
+    width: 404px;
+    height: 36px;
+}
+
+textarea{
+    border: 0;
+    background-color: rgb(230, 230, 230);
+    border-radius: 0 0 10px 10px;
+     box-shadow: 11px 11px 15px #ccc;
+    padding-left: 10px;
+    padding-right: 10px;
+    position: relative;
+
+}
+
+.area .button{
+   
+    position: absolute;
+    top: 211px;
+    left: 887px;
+    border-radius: 50%;
+    width: 42px;
+    height: 41px;
+    background-color: rgb(163, 163, 0);
+    color: white;
+    font-weight: bolder;
+    text-transform: capitalize;
+   
+}
